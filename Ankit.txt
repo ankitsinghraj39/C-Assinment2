@@ -1,7 +1,7 @@
 PPS Assignment
 Submitted By :
-Name : Gunvir Singh
-Roll No. : 1921030
+Name : Ankit Singh
+Roll No. : 1921009
 Branch : Information Tecnology(I.T)
 Section : I.T. A1
 
@@ -48,18 +48,18 @@ printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is
 OUTPUT:
 
 Enter your information:
-Name = Devil
+Name = Ankit
 
-Roll no=1921023
+Roll no=1921009
 
-Age = 18
+Age = 17
 
-Phone no.= 8847547031
+Phone no.= 7973457422
 
-The name is Devil
-Your roll no is 1921023
-My phone number is 8847547031
- My age is 18
+The name is Ankit
+Your roll no is 1921009
+My phone number is 7973457422
+ My age is 17
 3:Sum and average of numbers
  // sum and average of number
 #include<stdio.h>
